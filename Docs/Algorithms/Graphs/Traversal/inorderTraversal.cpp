@@ -48,4 +48,4 @@ public:
 		cout << root->val << "\n";
 		this->inorderTraversalRecursive(root->right);
 	}
-}
+};
